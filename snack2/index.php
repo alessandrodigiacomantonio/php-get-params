@@ -23,6 +23,6 @@
   </style>
 </head>
 <body>
-  <h1 class="<?php echo $access ?>">Accesso <?php echo $accesso?></h1>
+  <h1 class="<?php echo $access ?>">Accesso <?php echo $access?></h1>
 </body>
 </html>
